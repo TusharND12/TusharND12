@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tushar Dhokane (@TusharND12)
 
-- 🎓 I’m a 2nd-year Computer Engineering student.
+- 🎓 I’m a 3rd-year Computer Engineering student.
 - 💻 I enjoy building software solutions and experimenting with cutting-edge technologies.
 - 👀 I’m interested in AI, machine learning, and software development.
 - 🌱 I’m currently learning new algorithms, improving my Python skills, and exploring the world of web development.
