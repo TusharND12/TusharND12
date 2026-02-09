@@ -247,26 +247,42 @@ AWS · GCP · Docker · serverless
 
 </div>
 
-```mermaid
-mindmap
-  root((🚀 Tushar))
-    🤖 AI
-      LLMs & RAG
-      Multi-agent
-      Orchestration
-    🔥 Stack
-      React & Node
-      APIs & Auth
-      Real-time
-    ⚡ Automation
-      Pipelines
-      Events
-      n8n
-    ☁️ Infra
-      AWS & GCP
-      Docker
-      Serverless
-```
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**🤖 AI**  
+• LLMs & RAG  
+• Multi-agent  
+• Orchestration  
+
+</td>
+<td width="25%" valign="top">
+
+**🔥 Stack**  
+• React & Node  
+• APIs & Auth  
+• Real-time  
+
+</td>
+<td width="25%" valign="top">
+
+**⚡ Automation**  
+• Pipelines  
+• Events  
+• n8n  
+
+</td>
+<td width="25%" valign="top">
+
+**☁️ Infra**  
+• AWS & GCP  
+• Docker  
+• Serverless  
+
+</td>
+</tr>
+</table>
 
 <br/>
 
