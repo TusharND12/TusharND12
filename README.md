@@ -1,89 +1,76 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  HERO  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!--  TUSHAR OS — BOOT SEQUENCE  -->
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12&height=140&section=header&text=TUSHAR&fontSize=72&fontColor=ffffff&fontAlignY=55&stroke=0d1117&strokeWidth=2&animation=blinking" width="100%" alt="TUSHAR"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=130&section=header&text=TUSHAR_OS&fontSize=56&fontColor=22d3ee&fontAlignY=55&stroke=22d3ee&strokeWidth=2&animation=blinking" width="100%" alt="TUSHAR OS"/>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+%C3%97+AI+%C3%97+Systems+%7C+Building+what+doesn't+exist+yet" alt="tagline"/>
-</h3>
-
-<!-- Animated typing lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=F59E0B&center=true&repeat=true&width=800&lines=Ideas+%E2%86%92+Intelligence+%E2%9A%A1;Code+%7C+Automate+%7C+Ship+%7C+Scale+%F0%9F%94%A5;No+features.+Only+systems.+%F0%9F%9A%80" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=600&color=22d3ee&center=true&repeat=true&width=620&lines=%5BBOOT%5D+Loading+kernel...;%5BBOOT%5D+Mounting+stack...;%5BBOOT%5D+Tushar+OS+v1.0+ready." alt="boot"/>
 </p>
 
-<!-- Badges row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🇮🇳_India-Based-22D3EE?style=for-the-badge&labelColor=0d1117&color=22D3EE"/>
-  <img src="https://img.shields.io/badge/Status-Shipping-F59E0B?style=for-the-badge&labelColor=0d1117&color=F59E0B"/>
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Systems-FB7185?style=for-the-badge&labelColor=0d1117&color=FB7185"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=f59e0b&center=true&vCenter=true&width=700&lines=Full+Stack+%7C+ML+%7C+Real-time+%7C+Deploy;Python+%C3%97+React+%C3%97+Node+%C3%97+MongoDB;Build+%E2%86%92+Ship+%E2%86%92+Iterate" alt="tagline"/>
 </p>
 
-<!-- Social -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/🇮🇳_India-22d3ee?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Status-Online-f59e0b?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/User-TusharND12-22d3ee?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
   &nbsp;
-  <a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
   &nbsp;
-  <a href="https://github.com/TusharND12"><img src="https://img.shields.io/badge/GitHub-TusharND12-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/TusharND12"><img src="https://img.shields.io/badge/GitHub-TusharND12-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
-<!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  ABOUT / VISION  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ─── KERNEL (ABOUT) ───────────────────────────────────────────────── -->
 
 <div align="center">
 
-## 💫 The Vision
+### <code>[KERNEL]</code> Identity
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 ```javascript
-const tushar = {
-  role: "Full Stack × AI",
-  mantra: "Build systems. Not features.",
-  mission: "Ideas → Intelligence",
-  approach: [
-    "Code with intent",
-    "Automate the boring",
-    "Scale before you need to",
-    "Ship, then refine"
-  ]
+// /etc/tushar.os — identity
+const Tushar = {
+  username: "TusharND12",
+  role: "Full Stack Developer",
+  focus: ["Web Apps", "ML", "Real-time"],
+  stack: ["Python", "Java", "React", "Node", "MongoDB"],
+  deploy: ["Vercel", "Netlify", "Heroku"],
+  mantra: "Build → Ship → Iterate"
 };
-// Every system: automated · secure · scalable · AI-native
+module.exports = Tushar;
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-<br/>
-
-### 🎯 Core
+**Core**
 
 | | |
 |:--|:--|
-| ⚡ | **Automated** — minimal human touch |
-| 🔒 | **Secure** — by design |
-| 📈 | **Scalable** — built for 10x |
-| 🧠 | **AI-native** — intelligence in the stack |
-
-<br/>
-
-> *"The best code writes itself. The best systems think."*
+| 🐍 | **Python & Java** — logic & backend |
+| ⚛️ | **React + Node** — full stack |
+| 🗄️ | **MongoDB** — data layer |
+| 🧠 | **TensorFlow, OpenCV** — ML & vision |
+| 🚀 | **Vercel, Netlify, Heroku** — ship it |
 
 </td>
 </tr>
@@ -91,13 +78,11 @@ const tushar = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  WHAT I BUILD  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ─── RUNNING PROCESSES (WHAT I BUILD) ─────────────────────────────── -->
 
 <div align="center">
 
-## 🚀 What I Build
+### <code>[PROCESSES]</code> What I Run
 
 </div>
 
@@ -105,52 +90,52 @@ const tushar = {
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🤖 AI & Agents
+#### 🌐 Full Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="140"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/>
 
-LLMs · RAG · multi-agent · orchestration  
-*Decide → Execute → Deploy*
+React · Node · Express · MongoDB  
+HTML5 · Tailwind CSS · Mongoose
 
-`OpenAI` `Claude` `LangChain` `RAG`
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🔥 Full Stack
+#### 🧠 ML & Data
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="140"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120"/>
 
-React · Node · Firebase · APIs  
-*Frontend → Backend → Cloud*
+TensorFlow · Keras · OpenCV · Scikit-learn  
+Python · SQL · data pipelines
 
-`React` `Node.js` `Firebase` `TypeScript`
+<code>TensorFlow</code> <code>OpenCV</code> <code>Scikit-learn</code>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
-### ⚡ Automation
+#### ⚡ Real-time
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="140"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120"/>
 
-Pipelines · webhooks · n8n · events  
-*Zero-touch workflows*
+WebSockets · Firebase Realtime Database  
+Live updates · sync
 
-`n8n` `Webhooks` `API`
+<code>WebSockets</code> <code>Firebase</code>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### ☁️ Infrastructure
+#### 🚀 Deploy
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="140"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120"/>
 
-AWS · GCP · Docker · serverless  
-*Ship and scale*
+Vercel · Netlify · Heroku  
+Git · GitHub · CI
 
-`AWS` `GCP` `Docker` `Serverless`
+<code>Vercel</code> <code>Netlify</code> <code>Heroku</code>
 
 </td>
 </tr>
@@ -158,18 +143,22 @@ AWS · GCP · Docker · serverless
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  TECH STACK  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2800&pause=500&color=22d3ee&center=true&repeat=true&width=480&lines=All+processes+running.;Ready+for+connections." alt="status"/>
+</p>
+
+<br/>
+
+<!-- ─── INSTALLED PACKAGES (TECH STACK) ──────────────────────────────── -->
 
 <div align="center">
 
-## 🛠️ Tech Stack
+### <code>[PACKAGES]</code> Installed Stack
 
 </div>
 
 <p align="center">
-  <strong>Programming languages</strong><br/>
+  <strong>Languages</strong><br/>
   <img src="https://skillicons.dev/icons?i=python,java&theme=dark"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -203,8 +192,7 @@ AWS · GCP · Docker · serverless
 <p align="center">
   <strong>Real-time & tools</strong><br/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark"/>
 </p>
 
 <p align="center">
@@ -216,34 +204,30 @@ AWS · GCP · Docker · serverless
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  GITHUB STATS  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ─── RESOURCE MONITOR (GITHUB STATS) ───────────────────────────────── -->
 
 <div align="center">
 
-## 📈 GitHub
+### <code>[RESOURCE_MONITOR]</code> GitHub
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharND12&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=F59E0B" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharND12&theme=react&hide_border=true&background=0d1117&stroke=F59E0B&ring=22D3EE&fire=FB7185&currStreakLabel=22D3EE" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharND12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=f59e0b&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharND12&hide_border=true&background=0d1117&stroke=22d3ee&ring=f59e0b&fire=f59e0b&currStreakLabel=22d3ee" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharND12&custom_title=Contribution+Graph&theme=react-dark&bg_color=0d1117&color=22D3EE&line=F59E0B&point=FFFFFF&area=true&hide_border=true&area_color=22D3EE20" width="92%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharND12&custom_title=TusharND12+Activity&theme=react-dark&bg_color=0d1117&color=22d3ee&line=f59e0b&point=ffffff&area=true&hide_border=true&area_color=22d3ee20" width="92%"/>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  FOCUS  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ─── CURRENT FOCUS (TABLE — READABLE) ─────────────────────────────── -->
 
 <div align="center">
 
-## 🎯 Current Focus
+### <code>[FOCUS]</code> Current Priorities
 
 </div>
 
@@ -251,34 +235,34 @@ AWS · GCP · Docker · serverless
 <tr>
 <td width="25%" valign="top">
 
-**🤖 AI**  
-• LLMs & RAG  
-• Multi-agent  
-• Orchestration  
-
-</td>
-<td width="25%" valign="top">
-
-**🔥 Stack**  
+**🌐 Full Stack**  
 • React & Node  
 • APIs & Auth  
-• Real-time  
+• Real-time UI  
 
 </td>
 <td width="25%" valign="top">
 
-**⚡ Automation**  
-• Pipelines  
-• Events  
-• n8n  
+**🧠 ML**  
+• TensorFlow & Keras  
+• OpenCV · Scikit-learn  
+• Data pipelines  
 
 </td>
 <td width="25%" valign="top">
 
-**☁️ Infra**  
-• AWS & GCP  
-• Docker  
-• Serverless  
+**⚡ Real-time**  
+• WebSockets  
+• Firebase  
+• Live sync  
+
+</td>
+<td width="25%" valign="top">
+
+**🚀 Deploy**  
+• Vercel · Netlify  
+• Heroku  
+• Git workflow  
 
 </td>
 </tr>
@@ -286,95 +270,46 @@ AWS · GCP · Docker · serverless
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  EXPERTISE  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ─── NETWORK INTERFACES (CONNECT) ─────────────────────────────────── -->
 
 <div align="center">
 
-## 💡 Expertise
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="64"/>
-<br/><br/>
-<b>🤖 AI</b><br/>
-<sub>Intelligent systems<br/>that think & execute</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/code.png" width="64"/>
-<br/><br/>
-<b>🔥 Full Stack</b><br/>
-<sub>End-to-end<br/>web & APIs</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/automation.png" width="64"/>
-<br/><br/>
-<b>⚡ Automation</b><br/>
-<sub>Zero-touch<br/>workflows</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.icons8.com/fluency/96/cloud.png" width="64"/>
-<br/><br/>
-<b>☁️ Cloud</b><br/>
-<sub>Scalable<br/>infrastructure</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+### <code>[NETWORK]</code> Connect
 
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
+</p>
+
+<p align="center">
+  <strong>Open to:</strong> Full stack projects · ML pipelines · real-time apps · collabs
+</p>
+
+<p align="center">
+  <a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/📧_tushardhokane12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/LinkedIn-Tushar_Dhokane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+  &nbsp;
+  <a href="https://github.com/TusharND12"><img src="https://img.shields.io/badge/GitHub-TusharND12-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+</p>
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  LET'S BUILD  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ─── FOOTER ───────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-## 🤝 Let's Build Together
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2200&pause=600&color=22d3ee&center=true&repeat=true&width=520&lines=Build+%E2%86%92+Ship+%E2%86%92+Iterate.;Tushar+OS+%E2%80%94+session+active." alt="footer"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="480"/>
+<p align="center">
+  <strong>[Tushar](https://github.com/TusharND12)</strong> — Full Stack · ML · Real-time · Ship
+</p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%"/>
 
-**Open to:** AI products · SaaS · automation · web apps · infrastructure
-
-<br/><br/>
-
-<a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/TusharND12"><img src="https://img.shields.io/badge/GitHub-TusharND12-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  FOOTER  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=800&color=22D3EE&center=true&repeat=true&width=520&lines=Build+systems.+Not+features.;Ship.+Then+iterate." alt="footer"/>
-
-<br/>
-
-**⭐ [Tushar](https://github.com/TusharND12) — building tomorrow's systems today**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=100&section=footer" width="100%"/>
+<sub><code>tushar@github ~$</code> connection open</sub>
 
 </div>
