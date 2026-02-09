@@ -293,7 +293,7 @@ Git · GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TusharND12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=f59e0b&text_color=c9d1d9&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharND12&hide_border=true&background=0d1117&stroke=22d3ee&ring=f59e0b&fire=f59e0b&currStreakLabel=22d3ee" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=TusharND12&hide_border=true&background=0d1117&stroke=22d3ee&ring=f59e0b&fire=f59e0b&currStreakLabel=22d3ee" height="165"/>
 </p>
 
 <p align="center">
