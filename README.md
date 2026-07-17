@@ -17,6 +17,10 @@
 ```
 
 <p align="center">
+  <img src="./tushar-banner.png" alt="Tushar - Developer" width="420"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2500&pause=700&color=22d3ee&center=true&repeat=true&width=580&lines=%24+whoami+%3D%3E+TusharND12;%24+uname+-a+%3D%3E+Full+Stack+%7C+Python+%7C+React+%7C+Node;%24+echo+%22Build+%E2%86%92+Ship+%E2%86%92+Iterate%22" alt="terminal"/>
 </p>
 
