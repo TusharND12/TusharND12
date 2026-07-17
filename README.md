@@ -34,7 +34,7 @@
   <img src="https://komarev.com/ghpvc/?username=TusharND12&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0d1117,100:f59e0b&height=30&section=header" width="100%"/>
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:0d1117,100:22d3ee&height=30&section=footer" width="100%"/>
 
 <br/>
 
@@ -113,14 +113,14 @@
 
 <br/>
 
-<!-- ─── GITHUB TROPHIES ──────────────────────────────────────────── -->
+<!-- ─── NEURAL LINK STATUS ─────────────────────────────────────────── -->
 
 <div align="center">
 
-### <code>🏆 Achievements</code>
+### <code>⚡ Neural Link Status</code>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TusharND12&theme=onestar&no-bg=true&no-frame=true&column=7&title_color=22d3ee" alt="trophies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=500&color=22d3ee&center=true&multiline=true&width=500&height=120&lines=%5B%E2%9C%93%5D+Bypassing+mainframe+security...;%5B%E2%9C%93%5D+Accessing+developer+neural+link...;%5B%E2%9C%93%5D+Extracting+code+patterns...;%5B%E2%9C%93%5D+Deploying+full-stack+payload...;%5B!%5D+Warning:+High+levels+of+caffeine+detected." alt="cyberpunk-terminal"/>
 </p>
 
 </div>
@@ -134,9 +134,9 @@
 ### <code>🐍 Contribution Snake</code>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TusharND12/TusharND12/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TusharND12/TusharND12/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/TusharND12/TusharND12/blob/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharND12/TusharND12/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharND12/TusharND12/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TusharND12/TusharND12/output/dist/github-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -155,7 +155,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0d1117,100:f59e0b&height=30&section=header" width="100%"/>
 
 <br/>
 
@@ -185,7 +185,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:0d1117,100:22d3ee&height=30&section=footer" width="100%"/>
 
 <br/>
 
