@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a2e,50:16213e,75:0f3460,100:22d3ee&height=220&text=TUSHAR&fontSize=80&fontColor=22d3ee&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20·%20ML%20·%20Real-time%20·%20Ship&descSize=16&descColor=f59e0b&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d0f14,100:0a0a0f&height=180&text=TUSHAR&fontSize=80&fontColor=22d3ee&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20·%20ML%20·%20Real-time%20·%20Ship&descSize=16&descColor=f59e0b&descAlignY=58" width="100%"/>
 
 </div>
 
@@ -227,7 +227,7 @@
   <strong><a href="https://github.com/TusharND12">Tushar Dhokane</a></strong> — Full Stack · ML · Real-time · India 🇮🇳
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,25:0f3460,50:16213e,75:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d0f14,100:0d1117&height=120&section=footer" width="100%"/>
 
 <sub><code>$ exit 0</code></sub>
 
