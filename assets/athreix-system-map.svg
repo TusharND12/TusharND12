@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Athreix system map</title>
+  <desc id="desc">Four Tushar Dhokane projects connected around an Athreix core: Nexus, Synapse, Lead Intelligence, and VYROXX.</desc>
+
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#155e75" fill-opacity="0.35"/>
+    </pattern>
+    <filter id="cyanGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0l10 5-10 5z" fill="#22d3ee"/>
+    </marker>
+    <style>
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+      .node-title { fill: #f8fafc; font-size: 23px; font-weight: 800; letter-spacing: 1px; }
+      .node-type { fill: #67e8f9; font-size: 12px; font-weight: 700; letter-spacing: 2px; }
+      .node-copy { fill: #94a3b8; font-size: 13px; }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="516" rx="24" fill="#030608" stroke="#164e63" stroke-width="2"/>
+  <rect x="3" y="3" width="1194" height="514" rx="23" fill="url(#dots)"/>
+
+  <g class="mono">
+    <text x="44" y="54" fill="#67e8f9" font-size="14" font-weight="700" letter-spacing="3">ATHREIX // SYSTEM MAP</text>
+    <text x="44" y="83" fill="#64748b" font-size="13" letter-spacing="1">MEMORY → CONTROL → INTELLIGENCE → HUMAN OUTCOME</text>
+  </g>
+
+  <g fill="none" stroke="#155e75" stroke-width="2">
+    <path d="M420 188C505 188 510 230 548 247" marker-end="url(#arrow)"/>
+    <path d="M780 188C695 188 690 230 652 247" marker-end="url(#arrow)"/>
+    <path d="M420 390C500 390 515 313 550 292" marker-end="url(#arrow)"/>
+    <path d="M780 390C700 390 685 313 650 292" marker-end="url(#arrow)"/>
+  </g>
+
+  <g transform="translate(475 174)" class="mono">
+    <path d="M125 0l108 62v124l-108 62L17 186V62z" fill="#071019" stroke="#22d3ee" stroke-width="2"/>
+    <path d="M125 18l92 53v106l-92 53-92-53V71z" fill="none" stroke="#155e75"/>
+    <circle cx="125" cy="124" r="50" fill="#0e7490" fill-opacity="0.12" stroke="#22d3ee" filter="url(#cyanGlow)"/>
+    <text x="125" y="117" text-anchor="middle" fill="#f8fafc" font-size="24" font-weight="800" letter-spacing="3">ATHREIX</text>
+    <text x="125" y="143" text-anchor="middle" fill="#67e8f9" font-size="11" letter-spacing="2">BUILD SYSTEM</text>
+  </g>
+
+  <g transform="translate(52 125)" class="mono">
+    <rect width="368" height="126" rx="14" fill="#071019" stroke="#164e63"/>
+    <path d="M0 14V0h14M354 0h14v14" stroke="#22d3ee" stroke-width="2" fill="none"/>
+    <text x="24" y="32" class="node-type">01 / PROJECT MEMORY</text>
+    <text x="24" y="67" class="node-title">NEXUS</text>
+    <text x="24" y="95" class="node-copy">Never explain a project to AI twice.</text>
+  </g>
+
+  <g transform="translate(780 125)" class="mono">
+    <rect width="368" height="126" rx="14" fill="#071019" stroke="#164e63"/>
+    <path d="M354 0h14v14M368 112v14h-14" stroke="#22d3ee" stroke-width="2" fill="none"/>
+    <text x="24" y="32" class="node-type">02 / AGENT CONTROL</text>
+    <text x="24" y="67" class="node-title">SYNAPSE</text>
+    <text x="24" y="95" class="node-copy">See, approve, rewind, and replay AI work.</text>
+  </g>
+
+  <g transform="translate(52 327)" class="mono">
+    <rect width="368" height="126" rx="14" fill="#071019" stroke="#164e63"/>
+    <path d="M0 112v14h14M14 0H0v14" stroke="#22d3ee" stroke-width="2" fill="none"/>
+    <text x="24" y="32" class="node-type">03 / EVIDENCE ENGINE</text>
+    <text x="24" y="67" class="node-title" font-size="20">LEAD INTELLIGENCE</text>
+    <text x="24" y="95" class="node-copy">Research that exposes its sources.</text>
+  </g>
+
+  <g transform="translate(780 327)" class="mono">
+    <rect width="368" height="126" rx="14" fill="#071019" stroke="#164e63"/>
+    <path d="M368 112v14h-14M354 0h14v14" stroke="#22d3ee" stroke-width="2" fill="none"/>
+    <text x="24" y="32" class="node-type">04 / APPLIED INTELLIGENCE</text>
+    <text x="24" y="67" class="node-title">VYROXX</text>
+    <text x="24" y="95" class="node-copy">Turn athlete evidence into race decisions.</text>
+  </g>
+
+  <g class="mono" fill="#475569" font-size="10" letter-spacing="1">
+    <text x="468" y="487">VISIBLE</text>
+    <text x="558" y="487">EXPLAINABLE</text>
+    <text x="680" y="487">USEFUL</text>
+  </g>
+</svg>
