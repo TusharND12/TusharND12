@@ -1,234 +1,156 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     TUSHAR · GitHub Profile README
-     Cinematic Developer Portfolio — Not a template.
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!--
+  TUSHAR // HUMAN SOURCE FILE
+  Original portrait and Athreix system artwork belong to this profile.
+  Built as one visual story: identity → method → systems → proof → contact.
+-->
 
-<!-- ─── ANIMATED GRADIENT HEADER ─────────────────────────────────────── -->
+<p align="center">
+  <img src="./assets/athreix-header.svg" width="100%" alt="Tushar Dhokane — AI-native systems, local-first tools, and products that ship" />
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d0f14,100:0a0a0f&height=180&text=TUSHAR&fontSize=80&fontColor=22d3ee&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20·%20ML%20·%20Real-time%20·%20Ship&descSize=16&descColor=f59e0b&descAlignY=58" width="100%"/>
+<img src="./tushar-banner-animated.gif" width="500" alt="Animated code-etched portrait of Tushar Dhokane" />
+
+### I turn complex workflows into systems people can actually use.
+
+<p>
+  Full-stack developer and ML builder working where
+  <strong>AI, product engineering, real-time software, and local-first tools</strong> meet.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/LinkedIn-0b1118?style=flat-square&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
+  <a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/Email-0b1118?style=flat-square&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
+  <a href="https://github.com/TusharND12"><img src="https://img.shields.io/badge/GitHub-0b1118?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TusharND12&style=flat-square&color=0e7490&label=signal+visits" alt="Profile views" />
+</p>
+
+<sub><code>INDIA · COMPUTER ENGINEERING · BUILD → SHIP → ITERATE</code></sub>
 
 </div>
 
-<!-- ─── HERO SECTION — YOUR ATHREIX PORTRAIT ──────────────────────── -->
+<br />
+
+## `// READ ME AS A SYSTEM`
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <code>01 / OBSERVE</code><br /><br />
+      Find the part of a messy problem that actually costs people time, trust, or clarity.
+    </td>
+    <td width="25%" valign="top">
+      <code>02 / MODEL</code><br /><br />
+      Turn the workflow into evidence, states, decisions, and honest constraints.
+    </td>
+    <td width="25%" valign="top">
+      <code>03 / ENGINEER</code><br /><br />
+      Connect product design, full-stack systems, data, and machine intelligence.
+    </td>
+    <td width="25%" valign="top">
+      <code>04 / SHIP</code><br /><br />
+      Make it usable, observable, reversible—and real enough to learn from.
+    </td>
+  </tr>
+</table>
+
+> **My build rule:** intelligence should expose its evidence, automation should leave the human in control, and ambitious ideas should end as usable products.
+
+<br />
+
+## `// THE ATHREIX CONSTELLATION`
+
+<p align="center">
+  <img src="./assets/athreix-system-map.svg" width="100%" alt="Athreix project system map connecting Nexus, Synapse, Lead Intelligence, and VYROXX" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 — <a href="https://github.com/TusharND12/Athriex-Nexus">Athreix Nexus</a></h3>
+      <p><code>RUST · LOCAL-FIRST · CLI</code></p>
+      <p><strong>Never explain your project to an AI twice.</strong> A persistent memory layer that records architecture, decisions, timelines, handoffs, and project knowledge—offline.</p>
+      <a href="https://github.com/TusharND12/Athriex-Nexus">Explore the memory layer →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 — <a href="https://github.com/TusharND12/athreix-synapse">Synapse</a></h3>
+      <p><code>RUST · TUI · OFFLINE</code></p>
+      <p><strong>A terminal-native control room for AI coding agents.</strong> Observe live work, inspect diffs, enforce guardrails, create checkpoints, and rewind changes.</p>
+      <a href="https://github.com/TusharND12/athreix-synapse">Enter the control room →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 — <a href="https://github.com/TusharND12/Athreix-outreach-saas">Athreix Lead Intelligence</a></h3>
+      <p><code>TYPESCRIPT · NEXT.JS · AI WORKFLOWS</code></p>
+      <p><strong>Research that shows its work.</strong> An AI-native platform for evidence-backed company research, buying-signal detection, qualification, strategy, and outreach drafts.</p>
+      <a href="https://github.com/TusharND12/Athreix-outreach-saas">Inspect the intelligence engine →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 — <a href="https://github.com/TusharND12/Vyroxx">VYROXX</a></h3>
+      <p><code>PRODUCT PROTOTYPE · PERFORMANCE INTELLIGENCE</code></p>
+      <p><strong>From athlete evidence to race decisions.</strong> Benchmarking, prediction, pacing, causal race replay, and training prescriptions in one mobile-first interface.</p>
+      <a href="https://tusharnd12.github.io/Vyroxx/">Open the live product ↗</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/TusharND12/Vyroxx">Source →</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## `// ENGINEERING DNA`
 
 <div align="center">
 
-<img src="./tushar-banner.png" alt="Tushar — Developer Portrait" width="600"/>
-
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22d3ee&center=true&repeat=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Tushar+Dhokane;%F0%9F%9A%80+Full+Stack+Developer+%7C+ML+Engineer;%E2%9A%A1+Build+%E2%86%92+Ship+%E2%86%92+Iterate;%F0%9F%87%AE%F0%9F%87%B3+Based+in+India" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <a href="https://github.com/TusharND12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TusharND12&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0d1117,100:f59e0b&height=30&section=header" width="100%"/>
+<img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,react,nextjs,nodejs,tailwind,tensorflow,firebase,mongodb,redis,git&theme=dark&perline=14" alt="Rust, TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, Tailwind CSS, TensorFlow, Firebase, MongoDB, Redis, and Git" />
 
 </div>
 
-<br/>
+<table>
+  <tr>
+    <td width="25%" valign="top"><code>LANGUAGES</code><br /><br />Rust · TypeScript · JavaScript · Python · Java</td>
+    <td width="25%" valign="top"><code>PRODUCT</code><br /><br />React · Next.js · Tailwind · responsive interfaces</td>
+    <td width="25%" valign="top"><code>SYSTEMS</code><br /><br />Node.js · Firebase · MongoDB · Redis · Convex</td>
+    <td width="25%" valign="top"><code>INTELLIGENCE</code><br /><br />TensorFlow · structured AI workflows · evidence-first UX</td>
+  </tr>
+</table>
 
-<!-- ─── ABOUT ME — COMPACT IDENTITY ──────────────────────────────── -->
+<br />
 
-<div align="center">
+## `// LIVE TELEMETRY`
 
-### <code>$ cat /etc/tushar</code>
+<details>
+  <summary><strong>Open the public build signal</strong></summary>
+  <br />
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharND12&custom_title=PUBLIC+BUILD+LOG&bg_color=030608&color=94a3b8&line=22d3ee&point=f8fafc&area=true&hide_border=true&area_color=0e7490" width="95%" alt="Tushar's public GitHub contribution graph" />
+  </div>
+</details>
 
-</div>
+<br />
 
-```json
-{
-  "name": "Tushar Dhokane",
-  "handle": "TusharND12",
-  "role": "Full Stack Developer · ML Engineer",
-  "location": "India 🇮🇳",
-  "education": "Computer Engineering",
-  "focus": ["Web Apps", "Machine Learning", "Real-time Systems"],
-  "mantra": "Build → Ship → Iterate",
-  "available": true,
-  "open_to": ["Collaboration", "Full-time", "Freelance", "Open Source"]
-}
-```
-
-<br/>
-
-<!-- ─── TECH STACK — ANIMATED SKILL ICONS ────────────────────────── -->
+## `// OPEN A CHANNEL`
 
 <div align="center">
 
-### <code>$ ls ~/.stack</code>
+### One good conversation can become the next useful system.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2400&pause=500&color=f59e0b&center=true&repeat=true&width=420&lines=Loading+modules...;All+dependencies+resolved.;Stack+ready.+%F0%9F%9A%80" alt="stack-status"/>
+If you are building an AI-native product, a developer tool, a real-time experience,
+or a workflow that needs both systems thinking and a usable interface, let’s talk.
+
+<p>
+  <a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-22d3ee?style=for-the-badge&logo=gmail&logoColor=030608" alt="Email Tushar" /></a>
+  <a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0b1118?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="Connect with Tushar on LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css,tailwind&theme=dark" alt="Row 1"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow,firebase,git,vercel,netlify&theme=dark" alt="Row 2"/>
-</p>
+<br />
 
-</div>
+<code>tushar@athreix:~$ build --something-useful</code>
 
-<br/>
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:0d1117,100:22d3ee&height=30&section=footer" width="100%"/>
-
-<br/>
-
-<!-- ─── GITHUB STATS — 3-PANEL DASHBOARD ─────────────────────────── -->
-
-<div align="center">
-
-### <code>$ top</code> — GitHub stats
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2200&pause=500&color=f59e0b&center=true&repeat=true&width=480&lines=Fetching+live+data...;Commits+%7C+Streak+%7C+Languages+%7C+Activity;All+systems+nominal." alt="stats-status"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharND12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=f59e0b&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=TusharND12&hide_border=true&background=0d1117&stroke=22d3ee&ring=f59e0b&fire=f59e0b&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=22d3ee&dates=c9d1d9" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharND12&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=8" height="170"/>
-</p>
-
-</div>
-
-<br/>
-
-<!-- ─── NEURAL LINK STATUS ─────────────────────────────────────────── -->
-
-<div align="center">
-
-### <code>⚡ Neural Link Status</code>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=500&color=22d3ee&center=true&multiline=true&width=500&height=120&lines=%5B%E2%9C%93%5D+Bypassing+mainframe+security...;%5B%E2%9C%93%5D+Accessing+developer+neural+link...;%5B%E2%9C%93%5D+Extracting+code+patterns...;%5B%E2%9C%93%5D+Deploying+full-stack+payload...;%5B!%5D+Warning:+High+levels+of+caffeine+detected." alt="cyberpunk-terminal"/>
-</p>
-
-</div>
-
-<br/>
-
-<!-- ─── CONTRIBUTION SNAKE ───────────────────────────────────────── -->
-
-<div align="center">
-
-### <code>🐍 Contribution Snake</code>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharND12/TusharND12/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharND12/TusharND12/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TusharND12/TusharND12/output/dist/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ─── ACTIVITY GRAPH ───────────────────────────────────────────── -->
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharND12&custom_title=Tushar's+Contribution+Graph&theme=react-dark&bg_color=0d1117&color=22d3ee&line=f59e0b&point=ffffff&area=true&hide_border=true&area_color=22d3ee20" width="95%"/>
-</p>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0d1117,100:f59e0b&height=30&section=header" width="100%"/>
-
-<br/>
-
-<!-- ─── FEATURED PROJECTS ────────────────────────────────────────── -->
-
-<div align="center">
-
-### <code>📁 Featured Projects</code>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2600&pause=600&color=22d3ee&center=true&repeat=true&width=480&lines=Scanning+repositories...;Pinning+top+projects.;%24+ls+~/projects" alt="projects-status"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TusharND12/Bynry-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharND12&repo=Bynry-case-study&theme=react&bg_color=0d1117&hide_border=true&icon_color=f59e0b&title_color=22d3ee&text_color=c9d1d9" width="47%"/></a>
-  &nbsp;
-  <a href="https://github.com/TusharND12/chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharND12&repo=chat-app&theme=react&bg_color=0d1117&hide_border=true&icon_color=f59e0b&title_color=22d3ee&text_color=c9d1d9" width="47%"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TusharND12/Power_Fault_Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharND12&repo=Power_Fault_Detection&theme=react&bg_color=0d1117&hide_border=true&icon_color=f59e0b&title_color=22d3ee&text_color=c9d1d9" width="47%"/></a>
-  &nbsp;
-  <a href="https://github.com/TusharND12/SecureView"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TusharND12&repo=SecureView&theme=react&bg_color=0d1117&hide_border=true&icon_color=f59e0b&title_color=22d3ee&text_color=c9d1d9" width="47%"/></a>
-</p>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:0d1117,100:22d3ee&height=30&section=footer" width="100%"/>
-
-<br/>
-
-<!-- ─── CONNECT ──────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### <code>$ ssh tushar@connect</code>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=600&color=f59e0b&center=true&repeat=true&width=500&lines=Connection+established.+%F0%9F%91%8B;Ready+to+collaborate.;Let's+build+something+amazing." alt="connect-status"/>
-</p>
-
-<p align="center">
-  <a href="mailto:tushardhokane12@gmail.com"><img src="https://img.shields.io/badge/📧_tushardhokane12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tushar-dhokane12"><img src="https://img.shields.io/badge/LinkedIn_Tushar_Dhokane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  &nbsp;
-  <a href="https://github.com/TusharND12"><img src="https://img.shields.io/badge/GitHub-TusharND12-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
-</p>
-
-<p align="center">
-  <strong>Open to:</strong> Full Stack projects · ML pipelines · Real-time apps · Collabs · Hire
-</p>
-
-</div>
-
-<br/>
-
-<!-- ─── CINEMATIC FOOTER ─────────────────────────────────────────── -->
-
-<div align="center">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=600&color=22d3ee&center=true&repeat=true&width=520&lines=Build+%E2%86%92+Ship+%E2%86%92+Iterate.;Not+a+template.+This+is+TusharND12.;%24+exit+0" alt="footer"/>
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/TusharND12">Tushar Dhokane</a></strong> — Full Stack · ML · Real-time · India 🇮🇳
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d0f14,100:0d1117&height=120&section=footer" width="100%"/>
-
-<sub><code>$ exit 0</code></sub>
+<sub>Designed as a system—not assembled as a template.</sub>
 
 </div>

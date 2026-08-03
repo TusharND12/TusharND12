@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Tushar Dhokane — human source file</title>
+  <desc id="desc">A monochrome technical blueprint header with cyan signal lines for Tushar Dhokane, builder of AI-native systems.</desc>
+
+  <defs>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#22d3ee"/>
+      <stop offset="0.82" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="80%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#0e7490" stop-opacity="0.22"/>
+      <stop offset="0.65" stop-color="#071019" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#030608" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#164e63" stroke-width="1" stroke-opacity="0.22"/>
+      <circle cx="0" cy="0" r="1.2" fill="#22d3ee" fill-opacity="0.24"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .mono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; }
+      .label { fill: #67e8f9; font-size: 15px; font-weight: 700; letter-spacing: 3px; }
+      .meta { fill: #94a3b8; font-size: 14px; letter-spacing: 1px; }
+      .value { fill: #e6edf3; font-size: 14px; font-weight: 700; letter-spacing: 1px; }
+      .scan { animation: scan 7s linear infinite; }
+      @keyframes scan { 0% { transform: translateY(-10px); opacity: 0; } 10%, 90% { opacity: .5; } 100% { transform: translateY(370px); opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .scan { animation: none; opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="356" rx="24" fill="#030608" stroke="#164e63" stroke-width="2"/>
+  <rect x="3" y="3" width="1194" height="354" rx="23" fill="url(#grid)"/>
+  <rect x="3" y="3" width="1194" height="354" rx="23" fill="url(#halo)"/>
+
+  <path d="M28 76V28H76M1124 28h48v48M28 284v48h48M1124 332h48v-48" fill="none" stroke="#22d3ee" stroke-width="3"/>
+  <path d="M30 114H205l20-20h180" fill="none" stroke="#164e63" stroke-width="2"/>
+  <circle cx="30" cy="114" r="4" fill="#22d3ee" filter="url(#glow)"/>
+  <circle cx="405" cy="94" r="4" fill="#22d3ee" filter="url(#glow)"/>
+
+  <g class="mono">
+    <text x="64" y="70" class="label">ATHREIX // HUMAN SOURCE FILE</text>
+    <text x="62" y="184" fill="#f8fafc" font-size="82" font-weight="800" letter-spacing="8">TUSHAR</text>
+    <text x="62" y="267" fill="none" stroke="#22d3ee" stroke-width="1.4" font-size="72" font-weight="800" letter-spacing="5">DHOKANE</text>
+    <text x="66" y="310" fill="#94a3b8" font-size="14" letter-spacing="2">AI-NATIVE SYSTEMS  /  LOCAL-FIRST TOOLS  /  PRODUCTS THAT SHIP</text>
+  </g>
+
+  <g transform="translate(790 66)" class="mono">
+    <rect width="340" height="228" rx="14" fill="#071019" fill-opacity="0.82" stroke="#155e75"/>
+    <path d="M0 47h340M0 183h340" stroke="#155e75" stroke-opacity="0.7"/>
+    <circle cx="24" cy="24" r="5" fill="#22d3ee" filter="url(#glow)"/>
+    <text x="40" y="29" class="label" font-size="12">BUILD SIGNAL / ONLINE</text>
+
+    <text x="24" y="79" class="meta">MODE</text>
+    <text x="126" y="79" class="value">BUILD → SHIP → ITERATE</text>
+    <text x="24" y="112" class="meta">FOCUS</text>
+    <text x="126" y="112" class="value">AI × PRODUCT × SYSTEMS</text>
+    <text x="24" y="145" class="meta">CRAFT</text>
+    <text x="126" y="145" class="value">FULL-STACK / ML</text>
+    <text x="24" y="169" class="meta"></text>
+
+    <text x="24" y="211" fill="#67e8f9" font-size="12" letter-spacing="2">PUBLIC BUILD LOG  //  TUSHARND12</text>
+  </g>
+
+  <g opacity="0.65" fill="none" stroke="#22d3ee">
+    <path d="M730 58l20 20-20 20-20-20z"/>
+    <path d="M730 68l10 10-10 10-10-10z"/>
+    <path d="M754 78h24"/>
+  </g>
+
+  <rect class="scan" x="18" y="0" width="1164" height="2" fill="url(#signal)" filter="url(#glow)"/>
+</svg>
