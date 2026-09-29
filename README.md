@@ -151,6 +151,6 @@ or a workflow that needs both systems thinking and a usable interface, let’s t
 
 <br /><br />
 
-<sub>Designed as a system—not assembled as a template.</sub>
+<sub>Designed as a system—not assembled as a template</sub>
 
 </div>
